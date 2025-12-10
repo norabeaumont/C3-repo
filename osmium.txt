@@ -1,2 +1,3 @@
 Found: Platinum ores.
-Usage: Fountain pen tips, electrical contacts, and alloys.
+Usage: Fountain pen tips, electrical contacts and alloys.
+Edit main.
